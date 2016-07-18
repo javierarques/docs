@@ -1,0 +1,19 @@
+{
+  "name": "flystyles-docs",
+  "version": "1.0.0",
+  "description": "Flystyles Documentation / Styleguide",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.13.0",
+    "gulp": "^3.9.1",
+    "gulp-markdown-docs": "git+https://github.com/javierarques/gulp-markdown-docs.git",
+    "gulp-sass": "^2.3.2",
+    "highlight.js": "^9.5.0",
+    "marked": "^0.3.5"
+  }
+}
